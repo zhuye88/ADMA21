@@ -1,4 +1,4 @@
-Below table provides the link to the data sources and the time periods during which the anomalous activity (market manupulations) occured. See the paper for more details. 
+Below table provides the link to the data sources and the time periods during which the anomalous activity (market manipulation) occured. See the paper for more details. 
 
 | Stock Code | Link to Data Source                                 | Anomaly Start | Anomaly End | Anomaly Type |
 |------------|-----------------------------------------------------|---------------|-------------|--------------|
