@@ -9,6 +9,9 @@ Below table provides the link to the data sources and the time periods during wh
 | GME        | https://finance.yahoo.com/quote/GME/history?p=GME   | 11-Jan-21     | 29-Jan-21   | Point        |
 
 # Data can be obtained using the following process in Python
+
+Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar, Identification of Stock Market Manipulation with Deep Learning, in Proceedings of the International Conference on Advanced Data Mining and Applications (ADMA), Sydney, Australia, February, 2022.
+
 ```
 # Install
 !pip install yfinance
