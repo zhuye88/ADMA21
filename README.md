@@ -6,7 +6,7 @@ A dataset with labelled real (time series) anomalies (market manipulation) is pr
 # Cite
 Please cite our paper as follows if you use the data and/or code in your own work.
 
-Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar, Identification of Stock Market Manipulation with Deep Learning, in Proceedings of proceedings of the 17th International Conference on Advanced Data Mining and Applications (ADMA 2021), Sydney, Australia, February, 2022.
+Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar, Identification of Stock Market Manipulation with Deep Learning, in Proceedings of the 17th International Conference on Advanced Data Mining and Applications (ADMA 2021), Sydney, Australia, February, 2022.
 
 ```
 @inproceedings{Tallboys2022Ident,
