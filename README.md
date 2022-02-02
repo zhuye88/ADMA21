@@ -11,7 +11,7 @@ Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar, Identification of Stock Ma
 ```
 @inproceedings{Tallboys2022Ident,
   title={Identification of Stock Market Manipulation with Deep Learning},
-  author={Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar},
+  author={Jillian Tallboys, Ye Zhu, Sutharshan Rajasegarar},
   booktitle={Proceedings of the 17th International Conference on Advanced Data Mining and Applications (ADMA 2021)},
   venue={Sydney, Australia},
   location={Australia},
