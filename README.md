@@ -16,6 +16,7 @@ Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar, Identification of Stock Ma
   venue={Sydney, Australia},
   location={Australia},
   year={2022},
+  pages={408-420},
   url={https://doi.org/10.1007/978-3-030-95405-5_29}
 }
 ```
