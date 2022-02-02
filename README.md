@@ -1,5 +1,5 @@
 # Identification of Stock Market Manipulation with Deep Learning: Real data with labelled timeseries anomalies (market manipulation) and code  
-This is the code and data used in our paper "Identification of Stock Market Manipulation with Deep Learning" published on ADMA 2021 By Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar (Deakin University, Australia).
+This is the code and data used in our paper "Identification of Stock Market Manipulation with Deep Learning" published on ADMA 2021 By Jillian Tallboys, Ye Zhu, and Sutharshan Rajasegarar (Deakin University, Australia), Link:[https://doi.org/10.1007/978-3-030-95405-5_29].
 
 A dataset with labelled real (time series) anomalies (market manipulation) is presented, which have been used for experiments with state-of-the-art anomaly detection algorithms.
 
